@@ -1,8 +1,8 @@
-PRETTY_NAME="redcatOS 1.0"
-NAME="redcatOS"
+PRETTY_NAME="bluecatOS 1"
+NAME="bluecatOS"
 VERSION_ID="1.0"
-VERSION="1.0 (Amazing Aegean)"
-VERSION_CODENAME=aegean
+VERSION="1 (Aegean for Enterprises)"
+VERSION_CODENAME=abyssinian
 ID=ubuntu
 ID_LIKE=debian
 HOME_URL="https://www.redcatos.com/"
